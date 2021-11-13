@@ -1,6 +1,8 @@
 # NoteBook Pro
 by Hackathon Team - CodeBrigade
 
+View web app at: https://suryanshucodes.github.io/notebookPro/
+
 Light mode:
 ![image](https://user-images.githubusercontent.com/78544416/141655609-ed473336-9879-4650-85ae-b885b5c25523.png)
 
