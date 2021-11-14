@@ -171,8 +171,6 @@ body.dark-theme {
   justify-content: center;
   align-items: center;
 }
-.nav__item:hover{
-}
 .nav__link:hover{
   font-size: large;
 }
@@ -259,7 +257,6 @@ body.dark-theme {
   padding: 1em;
   transition: .5s;
   box-shadow: 0 0 1em rgba(0, 0, 0, 0.1); 
-  /* border: 1px solid; */
 }
 .home__data:hover{
   box-shadow: 0 0 2em rgba(0, 0, 0, 0.1); 
@@ -356,7 +353,6 @@ body.dark-theme {
   padding: 1em;
   transition: .5s;  
   box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
-  /* border: 1px solid; */
   border-color: black;
 }
 .about__data:hover{
@@ -376,7 +372,6 @@ body.dark-theme {
   padding: 1em;
   transition: .5s;  
   box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
-  /* border: 1px solid; */
   border-color: black;
 }
 .security__data:hover{
@@ -687,8 +682,6 @@ body.dark-theme {
   .container {
     margin-left: auto;
     margin-right: auto;
-    /* margin-left: 5em;
-    margin-right: 5em; */
   }
   .home__description {
     padding-right: 5rem;
