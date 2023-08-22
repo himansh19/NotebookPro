@@ -1,5 +1,5 @@
 # NoteBook Pro
-by Hackathon Team - CodeBrigade
+by Hackathon Team - CodeBrigade (Himanshu, Manish, Akansha, Mayank)
 
 View web app at: https://himansh19.github.io/NotebookPro/
 
